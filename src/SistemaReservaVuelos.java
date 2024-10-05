@@ -12,6 +12,7 @@ public class SistemaReservaVuelos {
             System.out.println("4. Salir");
             System.out.print("Seleccione una opción: ");
             int opcion = sc.nextInt();
+            
 
             if (opcion == 1) {
                 // Mostrar asientos
